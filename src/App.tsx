@@ -182,7 +182,7 @@ const StudyPlan = () => {
         </div>
       </div>
       <div className="days-nav">
-        {Object.keys(studyPlan).map((day, index) => (
+        {Object.keys(studyPlan).map((_, index) => (
           <button
             key={index}
             onClick={() => setActiveDay(index + 1)}
