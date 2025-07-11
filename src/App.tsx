@@ -137,7 +137,7 @@ const StudyPlan = () => {
         { id: "d10_2", text: "Ethics and responsible AI development", hours: "2-3 hrs", priority: "high" },
         { id: "d10_3", text: "Document AI use cases and business applications", hours: "2-3 hrs", priority: "high" },
         { id: "d10_4", text: "Technical interview prep: coding challenges, system design", hours: "3-4 hrs", priority: "high" },
-        { id: "d10_5", text: "DocRack.ai research: company, products, competitors", hours: "2-3 hrs", priority: "high" },
+        { id: "d10_5", text: "Company research: company, products, competitors", hours: "2-3 hrs", priority: "high" },
         { id: "d10_6", text: "Practice: Mock technical interviews", hours: "2-3 hrs", priority: "high" }
       ]
     }
@@ -227,7 +227,7 @@ const StudyPlan = () => {
       </div>
       <div className="tips-section">
         <div className="tips-card tips-blue">
-          <h3>🚀 DocRack.ai Specific Tips:</h3>
+          <h3>🚀 Company Specific Tips (may change based on company's need):</h3>
           <ul>
             <li>• Focus heavily on document processing and RAG systems</li>
             <li>• Practice building Q&A systems with PDF/document inputs</li>
