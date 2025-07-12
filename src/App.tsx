@@ -184,7 +184,7 @@ const StudyPlan = () => {
     "Day 5: Document AI & Text Processing": {
       icon: "📖",
       color: "day-red",
-      focus: "Document processing for DocRack.ai relevance",
+      focus: "Document processing for Company relevance",
       items: [
         {
           id: "d5_1",
@@ -387,7 +387,7 @@ const StudyPlan = () => {
         { id: "d10_2", text: "Ethics and responsible AI development", hours: "2-3 hrs", priority: "high" },
         { id: "d10_3", text: "Document AI use cases and business applications", hours: "2-3 hrs", priority: "high" },
         { id: "d10_4", text: "Technical interview prep: coding challenges, system design", hours: "3-4 hrs", priority: "high" },
-        { id: "d10_5", text: "DocRack.ai research: company, products, competitors", hours: "2-3 hrs", priority: "high" },
+        { id: "d10_5", text: "Company research: company, products, competitors", hours: "2-3 hrs", priority: "high" },
         { id: "d10_6", text: "Practice: Mock technical interviews", hours: "2-3 hrs", priority: "high" }
       ]
     }
